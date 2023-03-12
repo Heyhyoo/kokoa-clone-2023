@@ -20,5 +20,6 @@
     border: none;
     background-color: white;
     cursor: auto;
-    color:var(--gray)        
+    color:black;
+    opacity: 0.8;
 }
