@@ -19,5 +19,6 @@
 .alt-header__column button {
     border: none;
     background-color: white;
-    
+    cursor: auto;
+    color:var(--gray)        
 }
